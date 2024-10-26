@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaung Htet</h1>
-<h3 align="center">A aspiring data scientist</h3>
+<h3 align="center">An aspiring data scientist</h3>
 
 - 📫 How to reach me **kaunghtettha@gmail.com**
 
